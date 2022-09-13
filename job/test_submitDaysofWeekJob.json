@@ -1,0 +1,13 @@
+{
+"SubmitMethodName": "submitDaysofWeekJob",
+"identityName": "test_submitDaysofWeekJob",
+"identityGroup": "test_group", 
+"enabled": true,
+"pause": false,
+"workingDir": ".", 
+"FileName": "cmd.exe", 
+"ArgumentsString": "/c dir RVAScheduler.archiveDir", 
+"hour": 23,
+"minute": 55,
+"daysOfWeek": "Saturday,Sunday"
+}

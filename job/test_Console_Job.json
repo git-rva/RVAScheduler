@@ -1,0 +1,11 @@
+{
+"SubmitMethodName": "submitConsoleJob", 
+"identityName": "test_submitConsoleJob", 
+"identityGroup": "test_group", 
+"enabled": true,
+"pause": false,
+"workingDir": ".", 
+"FileName": "cmd.exe", 
+"ArgumentsString": "/c dir RVAScheduler.archiveDir", 
+"intervalInSeconds": 60
+}

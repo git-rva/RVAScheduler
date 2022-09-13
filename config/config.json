@@ -1,0 +1,11 @@
+{
+"logDir": "C:\\code\\cs\\Rod\\RVAScheduler\\log",
+"incomingDir": "C:\\code\\cs\\Rod\\RVAScheduler\\incoming",
+"dataDir": "C:\\code\\cs\\Rod\\RVAScheduler\\data",
+"archiveDir": "C:\\code\\cs\\Rod\\RVAScheduler\\archive",
+"configDir": "C:\\code\\cs\\Rod\\RVAScheduler\\config",
+"batchDir": "C:\\code\\cs\\Rod\\RVAScheduler\\batch",
+"binDir": "C:\\code\\cs\\Rod\\RVAScheduler\\bin",
+"jobDir": "C:\\code\\cs\\Rod\\RVAScheduler\\job",
+"logJobActivity": "true"
+}

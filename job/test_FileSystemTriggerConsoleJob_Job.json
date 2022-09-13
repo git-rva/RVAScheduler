@@ -1,0 +1,12 @@
+{
+"SubmitMethodName": "submitFileSystemTriggerConsoleJob", 
+"identityName": "test_submitFileSystemTriggerConsoleJob", 
+"identityGroup": "test_group", 
+"enabled": true,
+"pause": false, 
+"workingDir": ".", 
+"FileName": "cmd.exe", 
+"ArgumentsString": "/c \"~batchPath~ ~filePath~ RVAScheduler.archiveDir ~fileName~ RVAScheduler.dataDir\"", 
+"directory": "RVAScheduler.incomingDir", 
+"mask": "*.*"
+}
