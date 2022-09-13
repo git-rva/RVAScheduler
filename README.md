@@ -29,6 +29,7 @@ version 1.0 (pick master branch)
       - Build solution
       - Publish to directory
         - Run as service on same machine from the publish directory
+        - or
         - Install: Create RVAScheduler dir and sub-dirs on target machine
           - RVAScheduler\bin
           - RVAScheduler\config
