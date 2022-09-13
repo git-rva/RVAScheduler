@@ -19,7 +19,7 @@ version 1.0 (pick master branch)
       - Sleep mode (works: jobs run when os runs, jobs missed when in sleep mode)
       - Scheduled jobs (works: submitConsoleJob,submitFileSystemTriggerConsoleJob,submitDailyJob,submitDaysofWeekJob,submitMonthlyJob,submitWeeklyJob)
       - FileSystemDirMonitor jobs (works: Paste 5 at a time whith all being processed to archive using batch files)
-    - Server/Workstation
+    - Server/Workstation (in-progress)
   - Build: Install
     - ASP.NET and web development workload (Visual Studio setup)
     - Add new Project RVASchedulerService: search for "Worker Service", and select Worker Service template.
